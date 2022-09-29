@@ -1,0 +1,178 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@400;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+
+body {
+    min-height: 3000px;
+}
+
+/* Navbar */
+.navbar img {
+    height: 59px;
+    width: auto;
+}
+
+.navbar .nav-item {
+    font-family: 'Raleway';
+    font-weight: 400;
+    font-size: 14px;
+    margin-right: 40px;
+}
+
+.navbar .btn {
+    padding: 9px 50px;
+    background: #FF0000;
+}
+/* End Navbar */
+
+/* Banner */
+#Banner .banner-title h2 {
+    font-family: 'Raleway';
+    font-weight: 600;
+    font-size: 46px;
+    line-height: 54px;
+    color: #000000;
+    margin-top: 105px;
+}
+
+#Banner .banner-title p {
+    font-family: 'Poppins';
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 21px;
+    color: #B0B0B0;
+}
+
+#Banner .banner-title .btn {
+    background: #FF0000;
+    border-radius: 5px;
+    padding: 9px 39px;
+}
+
+#Banner .banner-img img {
+    height: 410px;
+    width: auto;
+    margin-top: 65px;
+}
+/* End Banner */
+
+/* Brand */
+#Brand img {
+    height: 73px;
+    width: 100%;
+    margin-top: 142px;
+}
+/* End Brand */
+
+/* Product */
+#Product .product-title h2{
+    font-family: 'Raleway';
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 600;
+    color: #000000;
+    margin-top: 141px;
+    text-align: center;
+}
+
+#Product .product-title hr{
+    background: #FF0000;
+    border-radius: 5px;
+    width: 68px;
+    margin: auto;
+    height: 4px;
+    margin-bottom: 41px;
+    opacity: 100%;
+    border: 3px solid #FF0000;
+}
+
+#Product .btn {
+    background-color: #FF0000;
+    border-radius: 5px;
+    padding:7px 50px;
+    color: #ffffff;
+    font-family: 'Raleway';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+}
+/* End Product */
+
+/* Promo */
+#Promo img {
+    height: 423px;
+    width: 100%;
+    margin-top: 214px;
+}
+/* End Promo */
+
+/* Accessories */
+#Accessories .accessories-title h2{
+    font-family: 'Raleway';
+    font-size: 24px;
+    line-height: 28px;
+    font-weight: 600;
+    color: #000000;
+    margin-top: 141px;
+    text-align: center;
+}
+
+#Accessories .accessories-title hr{
+    background: #FF0000;
+    border-radius: 5px;
+    width: 68px;
+    margin: auto;
+    height: 4px;
+    margin-bottom: 41px;
+    opacity: 100%;
+    border: 3px solid #FF0000;
+}
+#Accessories .card {
+    border: none;
+}
+/* End Accessories */
+
+/* Footer */
+#Footer img{
+    height: 59px;
+    width: auto;
+    margin-top: 54px;
+}
+
+#Footer h3 {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 18px;
+    color: #000000;
+    margin: 22px auto;
+}
+
+#Footer h2 {
+    font-family: 'Poppins';
+    font-weight: 600;
+    font-size: 18px;
+    line-height: 27px;
+    color: #000000;
+    margin-top: 66px;
+}
+
+#Footer ul a{
+    font-family: 'Poppins';
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+    color: #000000;
+}
+
+.list-unstyled {
+    margin-top: 40px;
+}
+
+#Footer .btn {
+    font-family: 'Poppins';
+    font-weight: 500;
+    background: #FF0000;
+    border-radius: 5px;
+    padding: 7px 55px;
+    margin-top: 10px;
+}
+/* End Footer */
